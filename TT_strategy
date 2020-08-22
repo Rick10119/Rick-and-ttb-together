@@ -3,7 +3,7 @@
 
 name = input("Please enter your name:");
 
-if name == 'Rick':
+  if name == 'Rick':
     print('TT finally found you in the crowd')
-else:
+  else:  
     print('Experience + 3,farewell')
